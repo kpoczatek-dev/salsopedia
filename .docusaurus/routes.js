@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', 'c16'),
+    component: ComponentCreator('/', '714'),
     routes: [
       {
         path: '/',
@@ -94,6 +94,11 @@ export default [
         component: ComponentCreator('/słowniczek/shines', 'bfa'),
         exact: true,
         sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/style/bachata',
+        component: ComponentCreator('/style/bachata', 'bc9'),
+        exact: true
       },
       {
         path: '/style/kubańska',

@@ -217,6 +217,20 @@
               }
             },
             {
+              "unversionedId": "style/bachata",
+              "id": "style/bachata",
+              "title": "bachata",
+              "description": "",
+              "source": "@site/docs/style/bachata.md",
+              "sourceDirName": "style",
+              "slug": "/style/bachata",
+              "permalink": "/style/bachata",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {}
+            },
+            {
               "unversionedId": "style/kubańska",
               "id": "style/kubańska",
               "title": "Styl kubański",

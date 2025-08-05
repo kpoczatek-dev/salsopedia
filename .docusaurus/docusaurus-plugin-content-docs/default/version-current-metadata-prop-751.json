@@ -184,6 +184,11 @@
       "description": "Solasowe kroki wykonywane solo.",
       "sidebar": "tutorialSidebar"
     },
+    "style/bachata": {
+      "id": "style/bachata",
+      "title": "bachata",
+      "description": ""
+    },
     "style/kubańska": {
       "id": "style/kubańska",
       "title": "Styl kubański",

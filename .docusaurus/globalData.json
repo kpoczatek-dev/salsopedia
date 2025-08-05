@@ -56,6 +56,10 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "style/bachata",
+              "path": "/style/bachata"
+            },
+            {
               "id": "style/kubańska",
               "path": "/style/kubańska",
               "sidebar": "tutorialSidebar"
