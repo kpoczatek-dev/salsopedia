@@ -1,0 +1,23 @@
+{
+  "unversionedId": "historia/salsa-na-kubie",
+  "id": "historia/salsa-na-kubie",
+  "title": "Salsa na Kubie",
+  "description": "Opis rozwoju salsy na Kubie.",
+  "source": "@site/docs/historia/salsa-na-kubie.md",
+  "sourceDirName": "historia",
+  "slug": "/historia/salsa-na-kubie",
+  "permalink": "/historia/salsa-na-kubie",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Salsopedia",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "Rozwój salsy w USA",
+    "permalink": "/historia/rozwój-w-usa"
+  }
+}

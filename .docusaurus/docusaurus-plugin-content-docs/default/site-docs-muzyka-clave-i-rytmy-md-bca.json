@@ -1,0 +1,23 @@
+{
+  "unversionedId": "muzyka/clave-i-rytmy",
+  "id": "muzyka/clave-i-rytmy",
+  "title": "Clave i rytmy",
+  "description": "Clave jako serce muzyki salsowej.",
+  "source": "@site/docs/muzyka/clave-i-rytmy.md",
+  "sourceDirName": "muzyka",
+  "slug": "/muzyka/clave-i-rytmy",
+  "permalink": "/muzyka/clave-i-rytmy",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rueda de Casino",
+    "permalink": "/style/rueda"
+  },
+  "next": {
+    "title": "Instrumenty w salsie",
+    "permalink": "/muzyka/instrumenty"
+  }
+}

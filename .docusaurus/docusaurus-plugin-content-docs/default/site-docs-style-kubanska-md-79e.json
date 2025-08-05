@@ -1,0 +1,23 @@
+{
+  "unversionedId": "style/kubańska",
+  "id": "style/kubańska",
+  "title": "Styl kubański",
+  "description": "Charakterystyka stylu tańczonego na 1 i 3.",
+  "source": "@site/docs/style/kubańska.md",
+  "sourceDirName": "style",
+  "slug": "/style/kubańska",
+  "permalink": "/style/kubańska",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rozwój salsy w USA",
+    "permalink": "/historia/rozwój-w-usa"
+  },
+  "next": {
+    "title": "Styl LA",
+    "permalink": "/style/la-style"
+  }
+}

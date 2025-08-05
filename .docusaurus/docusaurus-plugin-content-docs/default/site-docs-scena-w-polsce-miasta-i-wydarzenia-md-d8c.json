@@ -1,0 +1,19 @@
+{
+  "unversionedId": "scena-w-polsce/miasta-i-wydarzenia",
+  "id": "scena-w-polsce/miasta-i-wydarzenia",
+  "title": "Scena salsy w Polsce",
+  "description": "Opis miast, wydarzeń, grup i festiwali.",
+  "source": "@site/docs/scena-w-polsce/miasta-i-wydarzenia.md",
+  "sourceDirName": "scena-w-polsce",
+  "slug": "/scena-w-polsce/miasta-i-wydarzenia",
+  "permalink": "/scena-w-polsce/miasta-i-wydarzenia",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Cuenta",
+    "permalink": "/słowniczek/cuenta"
+  }
+}

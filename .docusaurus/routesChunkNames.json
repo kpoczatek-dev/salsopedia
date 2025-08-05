@@ -1,0 +1,104 @@
+{
+  "/__docusaurus/debug-b7f": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-a-0-602"
+    }
+  },
+  "/__docusaurus/debug/config-010": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-a-0-602"
+    }
+  },
+  "/__docusaurus/debug/content-3a1": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-a-0-602"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-609": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-a-0-602"
+    }
+  },
+  "/__docusaurus/debug/metadata-e83": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-a-0-602"
+    }
+  },
+  "/__docusaurus/debug/registry-642": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-a-0-602"
+    }
+  },
+  "/__docusaurus/debug/routes-154": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-4-a-0-602"
+    }
+  },
+  "/-c16": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-907-626"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/-98e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-c-37-4d0"
+  },
+  "/historia/rozwój-w-usa-3ae": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-historia-rozwoj-w-usa-193-cd4"
+  },
+  "/historia/salsa-na-kubie-b62": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-historia-salsa-na-kubie-497-6ed"
+  },
+  "/muzyka/clave-i-rytmy-56e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-muzyka-clave-i-rytmybca-cf2"
+  },
+  "/muzyka/instrumenty-583": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-muzyka-instrumenty-1-c-6-554"
+  },
+  "/scena-w-polsce/miasta-i-wydarzenia-8e3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-scena-w-polsce-miasta-i-wydarzeniad-8-c-ce9"
+  },
+  "/słowniczek/casino-406": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-slowniczek-casino-340-bd3"
+  },
+  "/słowniczek/cuenta-346": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-slowniczek-cuenta-32-d-427"
+  },
+  "/słowniczek/shines-bfa": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-slowniczek-shinesa-71-8a4"
+  },
+  "/style/kubańska-976": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-style-kubanska-79-e-484"
+  },
+  "/style/la-style-746": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-style-la-stylee-7-b-544"
+  },
+  "/style/ny-style-78e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-style-ny-style-023-0f7"
+  },
+  "/style/rueda-866": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-style-rueda-6-ae-80f"
+  }
+}

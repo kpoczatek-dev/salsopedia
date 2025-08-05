@@ -1,0 +1,23 @@
+{
+  "unversionedId": "słowniczek/casino",
+  "id": "słowniczek/casino",
+  "title": "Casino",
+  "description": "Inna nazwa salsy kubańskiej.",
+  "source": "@site/docs/słowniczek/casino.md",
+  "sourceDirName": "słowniczek",
+  "slug": "/słowniczek/casino",
+  "permalink": "/słowniczek/casino",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Shines",
+    "permalink": "/słowniczek/shines"
+  },
+  "next": {
+    "title": "Cuenta",
+    "permalink": "/słowniczek/cuenta"
+  }
+}

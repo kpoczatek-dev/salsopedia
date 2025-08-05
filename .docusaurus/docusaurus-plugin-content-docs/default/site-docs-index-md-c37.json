@@ -1,0 +1,19 @@
+{
+  "unversionedId": "index",
+  "id": "index",
+  "title": "Salsopedia",
+  "description": "Witaj w Salsopedii – społecznościowej wiki o salsie.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Salsa na Kubie",
+    "permalink": "/historia/salsa-na-kubie"
+  }
+}

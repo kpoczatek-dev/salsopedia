@@ -1,0 +1,430 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/",
+          "tagsPath": "/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "C:\\Projekty\\salsopedia\\sidebars.js",
+          "contentPath": "C:\\Projekty\\salsopedia\\docs",
+          "contentPathLocalized": "C:\\Projekty\\salsopedia\\i18n\\pl\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "unversionedId": "historia/rozwój-w-usa",
+              "id": "historia/rozwój-w-usa",
+              "title": "Rozwój salsy w USA",
+              "description": "Jak salsa rozwinęła się w Nowym Jorku i Los Angeles.",
+              "source": "@site/docs/historia/rozwój-w-usa.md",
+              "sourceDirName": "historia",
+              "slug": "/historia/rozwój-w-usa",
+              "permalink": "/historia/rozwój-w-usa",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Salsa na Kubie",
+                "permalink": "/historia/salsa-na-kubie"
+              },
+              "next": {
+                "title": "Styl kubański",
+                "permalink": "/style/kubańska"
+              }
+            },
+            {
+              "unversionedId": "historia/salsa-na-kubie",
+              "id": "historia/salsa-na-kubie",
+              "title": "Salsa na Kubie",
+              "description": "Opis rozwoju salsy na Kubie.",
+              "source": "@site/docs/historia/salsa-na-kubie.md",
+              "sourceDirName": "historia",
+              "slug": "/historia/salsa-na-kubie",
+              "permalink": "/historia/salsa-na-kubie",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Salsopedia",
+                "permalink": "/"
+              },
+              "next": {
+                "title": "Rozwój salsy w USA",
+                "permalink": "/historia/rozwój-w-usa"
+              }
+            },
+            {
+              "unversionedId": "index",
+              "id": "index",
+              "title": "Salsopedia",
+              "description": "Witaj w Salsopedii – społecznościowej wiki o salsie.",
+              "source": "@site/docs/index.md",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Salsa na Kubie",
+                "permalink": "/historia/salsa-na-kubie"
+              }
+            },
+            {
+              "unversionedId": "muzyka/clave-i-rytmy",
+              "id": "muzyka/clave-i-rytmy",
+              "title": "Clave i rytmy",
+              "description": "Clave jako serce muzyki salsowej.",
+              "source": "@site/docs/muzyka/clave-i-rytmy.md",
+              "sourceDirName": "muzyka",
+              "slug": "/muzyka/clave-i-rytmy",
+              "permalink": "/muzyka/clave-i-rytmy",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Rueda de Casino",
+                "permalink": "/style/rueda"
+              },
+              "next": {
+                "title": "Instrumenty w salsie",
+                "permalink": "/muzyka/instrumenty"
+              }
+            },
+            {
+              "unversionedId": "muzyka/instrumenty",
+              "id": "muzyka/instrumenty",
+              "title": "Instrumenty w salsie",
+              "description": "Typowe instrumenty: bongosy, congi, timbales.",
+              "source": "@site/docs/muzyka/instrumenty.md",
+              "sourceDirName": "muzyka",
+              "slug": "/muzyka/instrumenty",
+              "permalink": "/muzyka/instrumenty",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Clave i rytmy",
+                "permalink": "/muzyka/clave-i-rytmy"
+              },
+              "next": {
+                "title": "Shines",
+                "permalink": "/słowniczek/shines"
+              }
+            },
+            {
+              "unversionedId": "scena-w-polsce/miasta-i-wydarzenia",
+              "id": "scena-w-polsce/miasta-i-wydarzenia",
+              "title": "Scena salsy w Polsce",
+              "description": "Opis miast, wydarzeń, grup i festiwali.",
+              "source": "@site/docs/scena-w-polsce/miasta-i-wydarzenia.md",
+              "sourceDirName": "scena-w-polsce",
+              "slug": "/scena-w-polsce/miasta-i-wydarzenia",
+              "permalink": "/scena-w-polsce/miasta-i-wydarzenia",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Cuenta",
+                "permalink": "/słowniczek/cuenta"
+              }
+            },
+            {
+              "unversionedId": "słowniczek/casino",
+              "id": "słowniczek/casino",
+              "title": "Casino",
+              "description": "Inna nazwa salsy kubańskiej.",
+              "source": "@site/docs/słowniczek/casino.md",
+              "sourceDirName": "słowniczek",
+              "slug": "/słowniczek/casino",
+              "permalink": "/słowniczek/casino",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Shines",
+                "permalink": "/słowniczek/shines"
+              },
+              "next": {
+                "title": "Cuenta",
+                "permalink": "/słowniczek/cuenta"
+              }
+            },
+            {
+              "unversionedId": "słowniczek/cuenta",
+              "id": "słowniczek/cuenta",
+              "title": "Cuenta",
+              "description": "Sposób liczenia kroków w salsie.",
+              "source": "@site/docs/słowniczek/cuenta.md",
+              "sourceDirName": "słowniczek",
+              "slug": "/słowniczek/cuenta",
+              "permalink": "/słowniczek/cuenta",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Casino",
+                "permalink": "/słowniczek/casino"
+              },
+              "next": {
+                "title": "Scena salsy w Polsce",
+                "permalink": "/scena-w-polsce/miasta-i-wydarzenia"
+              }
+            },
+            {
+              "unversionedId": "słowniczek/shines",
+              "id": "słowniczek/shines",
+              "title": "Shines",
+              "description": "Solasowe kroki wykonywane solo.",
+              "source": "@site/docs/słowniczek/shines.md",
+              "sourceDirName": "słowniczek",
+              "slug": "/słowniczek/shines",
+              "permalink": "/słowniczek/shines",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Instrumenty w salsie",
+                "permalink": "/muzyka/instrumenty"
+              },
+              "next": {
+                "title": "Casino",
+                "permalink": "/słowniczek/casino"
+              }
+            },
+            {
+              "unversionedId": "style/kubańska",
+              "id": "style/kubańska",
+              "title": "Styl kubański",
+              "description": "Charakterystyka stylu tańczonego na 1 i 3.",
+              "source": "@site/docs/style/kubańska.md",
+              "sourceDirName": "style",
+              "slug": "/style/kubańska",
+              "permalink": "/style/kubańska",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Rozwój salsy w USA",
+                "permalink": "/historia/rozwój-w-usa"
+              },
+              "next": {
+                "title": "Styl LA",
+                "permalink": "/style/la-style"
+              }
+            },
+            {
+              "unversionedId": "style/la-style",
+              "id": "style/la-style",
+              "title": "Styl LA",
+              "description": "Styl tańczony na 1, bardzo widowiskowy.",
+              "source": "@site/docs/style/la-style.md",
+              "sourceDirName": "style",
+              "slug": "/style/la-style",
+              "permalink": "/style/la-style",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Styl kubański",
+                "permalink": "/style/kubańska"
+              },
+              "next": {
+                "title": "Styl NY (Mambo)",
+                "permalink": "/style/ny-style"
+              }
+            },
+            {
+              "unversionedId": "style/ny-style",
+              "id": "style/ny-style",
+              "title": "Styl NY (Mambo)",
+              "description": "Styl tańczony na 2, z dużym wpływem jazzu.",
+              "source": "@site/docs/style/ny-style.md",
+              "sourceDirName": "style",
+              "slug": "/style/ny-style",
+              "permalink": "/style/ny-style",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Styl LA",
+                "permalink": "/style/la-style"
+              },
+              "next": {
+                "title": "Rueda de Casino",
+                "permalink": "/style/rueda"
+              }
+            },
+            {
+              "unversionedId": "style/rueda",
+              "id": "style/rueda",
+              "title": "Rueda de Casino",
+              "description": "Grupowy taniec kubański z wymianami partnerów.",
+              "source": "@site/docs/style/rueda.md",
+              "sourceDirName": "style",
+              "slug": "/style/rueda",
+              "permalink": "/style/rueda",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Styl NY (Mambo)",
+                "permalink": "/style/ny-style"
+              },
+              "next": {
+                "title": "Clave i rytmy",
+                "permalink": "/muzyka/clave-i-rytmy"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "index"
+              },
+              {
+                "type": "category",
+                "label": "Historia",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "historia/salsa-na-kubie"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "historia/rozwój-w-usa"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Style",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "style/kubańska"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "style/la-style"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "style/ny-style"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "style/rueda"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Muzyka",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "muzyka/clave-i-rytmy"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "muzyka/instrumenty"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Słowniczek",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "słowniczek/shines"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "słowniczek/casino"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "słowniczek/cuenta"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              },
+              {
+                "type": "category",
+                "label": "Scena w Polsce",
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "scena-w-polsce/miasta-i-wydarzenia"
+                  }
+                ],
+                "collapsed": true,
+                "collapsible": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-blog": {
+    "default": {
+      "blogSidebarTitle": "Recent posts",
+      "blogPosts": [],
+      "blogListPaginated": [],
+      "blogTags": {},
+      "blogTagsListPath": "/blog/tags",
+      "blogTagsPaginated": []
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

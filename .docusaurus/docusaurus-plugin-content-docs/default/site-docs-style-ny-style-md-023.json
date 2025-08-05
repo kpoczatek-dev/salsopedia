@@ -1,0 +1,23 @@
+{
+  "unversionedId": "style/ny-style",
+  "id": "style/ny-style",
+  "title": "Styl NY (Mambo)",
+  "description": "Styl tańczony na 2, z dużym wpływem jazzu.",
+  "source": "@site/docs/style/ny-style.md",
+  "sourceDirName": "style",
+  "slug": "/style/ny-style",
+  "permalink": "/style/ny-style",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Styl LA",
+    "permalink": "/style/la-style"
+  },
+  "next": {
+    "title": "Rueda de Casino",
+    "permalink": "/style/rueda"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "historia/rozwój-w-usa",
+              "path": "/historia/rozwój-w-usa",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "historia/salsa-na-kubie",
+              "path": "/historia/salsa-na-kubie",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "index",
+              "path": "/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "muzyka/clave-i-rytmy",
+              "path": "/muzyka/clave-i-rytmy",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "muzyka/instrumenty",
+              "path": "/muzyka/instrumenty",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "scena-w-polsce/miasta-i-wydarzenia",
+              "path": "/scena-w-polsce/miasta-i-wydarzenia",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "słowniczek/casino",
+              "path": "/słowniczek/casino",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "słowniczek/cuenta",
+              "path": "/słowniczek/cuenta",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "słowniczek/shines",
+              "path": "/słowniczek/shines",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "style/kubańska",
+              "path": "/style/kubańska",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "style/la-style",
+              "path": "/style/la-style",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "style/ny-style",
+              "path": "/style/ny-style",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "style/rueda",
+              "path": "/style/rueda",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/",
+                "label": "index"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "słowniczek/shines",
+  "id": "słowniczek/shines",
+  "title": "Shines",
+  "description": "Solasowe kroki wykonywane solo.",
+  "source": "@site/docs/słowniczek/shines.md",
+  "sourceDirName": "słowniczek",
+  "slug": "/słowniczek/shines",
+  "permalink": "/słowniczek/shines",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Instrumenty w salsie",
+    "permalink": "/muzyka/instrumenty"
+  },
+  "next": {
+    "title": "Casino",
+    "permalink": "/słowniczek/casino"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "muzyka/instrumenty",
+  "id": "muzyka/instrumenty",
+  "title": "Instrumenty w salsie",
+  "description": "Typowe instrumenty: bongosy, congi, timbales.",
+  "source": "@site/docs/muzyka/instrumenty.md",
+  "sourceDirName": "muzyka",
+  "slug": "/muzyka/instrumenty",
+  "permalink": "/muzyka/instrumenty",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clave i rytmy",
+    "permalink": "/muzyka/clave-i-rytmy"
+  },
+  "next": {
+    "title": "Shines",
+    "permalink": "/słowniczek/shines"
+  }
+}

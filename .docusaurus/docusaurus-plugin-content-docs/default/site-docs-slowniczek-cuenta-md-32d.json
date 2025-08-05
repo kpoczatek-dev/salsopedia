@@ -1,0 +1,23 @@
+{
+  "unversionedId": "słowniczek/cuenta",
+  "id": "słowniczek/cuenta",
+  "title": "Cuenta",
+  "description": "Sposób liczenia kroków w salsie.",
+  "source": "@site/docs/słowniczek/cuenta.md",
+  "sourceDirName": "słowniczek",
+  "slug": "/słowniczek/cuenta",
+  "permalink": "/słowniczek/cuenta",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Casino",
+    "permalink": "/słowniczek/casino"
+  },
+  "next": {
+    "title": "Scena salsy w Polsce",
+    "permalink": "/scena-w-polsce/miasta-i-wydarzenia"
+  }
+}

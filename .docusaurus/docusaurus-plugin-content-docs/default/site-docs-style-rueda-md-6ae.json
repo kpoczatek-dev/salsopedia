@@ -1,0 +1,23 @@
+{
+  "unversionedId": "style/rueda",
+  "id": "style/rueda",
+  "title": "Rueda de Casino",
+  "description": "Grupowy taniec kubański z wymianami partnerów.",
+  "source": "@site/docs/style/rueda.md",
+  "sourceDirName": "style",
+  "slug": "/style/rueda",
+  "permalink": "/style/rueda",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Styl NY (Mambo)",
+    "permalink": "/style/ny-style"
+  },
+  "next": {
+    "title": "Clave i rytmy",
+    "permalink": "/muzyka/clave-i-rytmy"
+  }
+}

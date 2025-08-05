@@ -1,0 +1,15 @@
+/* Niestandardowe style dla Salsopedii */
+
+:root {
+  --ifm-color-primary: #e63946;
+  --ifm-font-family-base: 'Segoe UI', sans-serif;
+}
+
+.navbar__title {
+  font-weight: bold;
+}
+
+.footer {
+  background-color: #f8f8f8;
+  color: #333;
+}

@@ -1,0 +1,23 @@
+{
+  "unversionedId": "style/la-style",
+  "id": "style/la-style",
+  "title": "Styl LA",
+  "description": "Styl tańczony na 1, bardzo widowiskowy.",
+  "source": "@site/docs/style/la-style.md",
+  "sourceDirName": "style",
+  "slug": "/style/la-style",
+  "permalink": "/style/la-style",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Styl kubański",
+    "permalink": "/style/kubańska"
+  },
+  "next": {
+    "title": "Styl NY (Mambo)",
+    "permalink": "/style/ny-style"
+  }
+}

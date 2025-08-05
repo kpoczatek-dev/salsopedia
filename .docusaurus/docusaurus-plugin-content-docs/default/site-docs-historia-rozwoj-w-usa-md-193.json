@@ -1,0 +1,23 @@
+{
+  "unversionedId": "historia/rozwój-w-usa",
+  "id": "historia/rozwój-w-usa",
+  "title": "Rozwój salsy w USA",
+  "description": "Jak salsa rozwinęła się w Nowym Jorku i Los Angeles.",
+  "source": "@site/docs/historia/rozwój-w-usa.md",
+  "sourceDirName": "historia",
+  "slug": "/historia/rozwój-w-usa",
+  "permalink": "/historia/rozwój-w-usa",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Salsa na Kubie",
+    "permalink": "/historia/salsa-na-kubie"
+  },
+  "next": {
+    "title": "Styl kubański",
+    "permalink": "/style/kubańska"
+  }
+}
