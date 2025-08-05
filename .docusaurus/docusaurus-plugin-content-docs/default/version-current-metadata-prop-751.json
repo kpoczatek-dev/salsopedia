@@ -62,6 +62,12 @@
             "label": "Rueda de Casino",
             "href": "/style/rueda",
             "docId": "style/rueda"
+          },
+          {
+            "type": "link",
+            "label": "bachata",
+            "href": "/style/bachata",
+            "docId": "style/bachata"
           }
         ],
         "collapsed": true,
@@ -187,7 +193,8 @@
     "style/bachata": {
       "id": "style/bachata",
       "title": "bachata",
-      "description": ""
+      "description": "",
+      "sidebar": "tutorialSidebar"
     },
     "style/kubańska": {
       "id": "style/kubańska",

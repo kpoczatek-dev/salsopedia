@@ -9,7 +9,7 @@ module.exports = {
     {
       type: 'category',
       label: 'Style',
-      items: ['style/kubańska', 'style/la-style', 'style/ny-style', 'style/rueda'],
+      items: ['style/kubańska', 'style/la-style', 'style/ny-style', 'style/rueda','style/bachata'],
     },
     {
       type: 'category',

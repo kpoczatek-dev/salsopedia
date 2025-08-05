@@ -10,5 +10,14 @@
   "draft": false,
   "tags": [],
   "version": "current",
-  "frontMatter": {}
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Rueda de Casino",
+    "permalink": "/style/rueda"
+  },
+  "next": {
+    "title": "Clave i rytmy",
+    "permalink": "/muzyka/clave-i-rytmy"
+  }
 }

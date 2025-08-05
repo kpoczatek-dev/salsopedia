@@ -39,7 +39,7 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '714'),
+    component: ComponentCreator('/', '3e8'),
     routes: [
       {
         path: '/',
@@ -97,8 +97,9 @@ export default [
       },
       {
         path: '/style/bachata',
-        component: ComponentCreator('/style/bachata', 'bc9'),
-        exact: true
+        component: ComponentCreator('/style/bachata', 'dc1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
       },
       {
         path: '/style/kubańska',

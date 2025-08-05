@@ -97,8 +97,8 @@
               "frontMatter": {},
               "sidebar": "tutorialSidebar",
               "previous": {
-                "title": "Rueda de Casino",
-                "permalink": "/style/rueda"
+                "title": "bachata",
+                "permalink": "/style/bachata"
               },
               "next": {
                 "title": "Instrumenty w salsie",
@@ -228,7 +228,16 @@
               "draft": false,
               "tags": [],
               "version": "current",
-              "frontMatter": {}
+              "frontMatter": {},
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Rueda de Casino",
+                "permalink": "/style/rueda"
+              },
+              "next": {
+                "title": "Clave i rytmy",
+                "permalink": "/muzyka/clave-i-rytmy"
+              }
             },
             {
               "unversionedId": "style/kubańska",
@@ -318,8 +327,8 @@
                 "permalink": "/style/ny-style"
               },
               "next": {
-                "title": "Clave i rytmy",
-                "permalink": "/muzyka/clave-i-rytmy"
+                "title": "bachata",
+                "permalink": "/style/bachata"
               }
             }
           ],
@@ -365,6 +374,10 @@
                   {
                     "type": "doc",
                     "id": "style/rueda"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "style/bachata"
                   }
                 ],
                 "collapsed": true,
